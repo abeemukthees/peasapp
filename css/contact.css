@@ -1,0 +1,747 @@
+.version.contact /* version checker */
+{
+	color: #0000F8;
+	background-color: #B4B4BB;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#page
+{
+	z-index: 1;
+	background-image: none;
+	background-color: transparent;
+	width: 100%;
+	margin-right: auto;
+	border-color: #000000;
+	margin-left: auto;
+	border-width: 0px;
+}
+
+#u2744
+{
+	min-height: 460px;
+	z-index: 18;
+	background: transparent url("../images/symphony3.jpg") repeat left top;
+}
+
+#u2744_align_to_page
+{
+	padding-bottom: 76px;
+	margin-right: auto;
+	position: relative;
+	margin-left: auto;
+	padding-top: 77px;
+}
+
+#u2757
+{
+	left: -75px;
+	z-index: 20;
+	background-color: transparent;
+	position: relative;
+	width: 150px;
+	margin-left: 50%;
+}
+
+#u2758
+{
+	z-index: 21;
+	display: block;
+}
+
+#u2759-4
+{
+	font-family: merienda-one, cursive;
+	min-height: 134px;
+	font-weight: 400;
+	color: #FFFFFF;
+	font-size: 100px;
+	line-height: 120px;
+	position: relative;
+	z-index: 22;
+	background-color: transparent;
+	text-align: center;
+	margin-top: 23px;
+}
+
+#u2744-bw
+{
+	min-height: 460px;
+	z-index: 18;
+}
+
+#u2789-4
+{
+	font-family: lato, sans-serif;
+	min-height: 143px;
+	font-weight: 400;
+	font-size: 60px;
+	line-height: 72px;
+	position: relative;
+	z-index: 26;
+	background-color: transparent;
+	text-align: center;
+	margin-top: 115px;
+}
+
+#u2808-12
+{
+	font-family: lato, sans-serif;
+	min-height: 93px;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 36px;
+	position: relative;
+	z-index: 30;
+	background-color: transparent;
+	text-align: center;
+}
+
+#u2808-3
+{
+	font-family: lato, sans-serif;
+	font-weight: 700;
+}
+
+#u2808-4
+{
+	font-family: lato, sans-serif;
+	font-weight: 400;
+}
+
+#u2747
+{
+	z-index: 19;
+	position: relative;
+	height: 156px;
+}
+
+.ie #u2747
+{
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	background-color: #FFFFFF;
+	opacity: 0.01;
+}
+
+#u94
+{
+	z-index: 2;
+}
+
+#u737
+{
+	z-index: 42;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u733
+{
+	z-index: 43;
+}
+
+#u748
+{
+	z-index: 3;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u744
+{
+	z-index: 4;
+}
+
+#u759
+{
+	z-index: 5;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u755
+{
+	z-index: 6;
+}
+
+#u766-11
+{
+	min-height: 48px;
+	z-index: 7;
+	position: relative;
+}
+
+#u782-7
+{
+	min-height: 40px;
+	z-index: 44;
+	position: relative;
+}
+
+.html
+{
+	background-color: #FAFAFA;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 1491px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 500px;
+		max-width: 1920px;
+	}
+
+	#u2744_align_to_page
+	{
+		max-width: 1920px;
+	}
+
+	#u2759-4
+	{
+		width: 97.92%;
+		margin-left: 1.05%;
+		left: 0px;
+	}
+
+	#u2789-4
+	{
+		width: 71.31%;
+		margin-left: 14.38%;
+	}
+
+	#u2808-12
+	{
+		margin-top: 18px;
+		width: 38.91%;
+		margin-left: 30.58%;
+	}
+
+	#u2747
+	{
+		margin-top: 68px;
+		width: 52.61%;
+		margin-left: 26.1%;
+	}
+
+	#u94
+	{
+		min-height: 140px;
+		padding-bottom: 60px;
+	}
+
+	#u94_align_to_page
+	{
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+	}
+
+	#u737
+	{
+		margin-top: 60px;
+		width: 4.17%;
+		left: 5.79%;
+	}
+
+	#u748
+	{
+		margin-top: 60px;
+		width: 4.17%;
+		left: 11.2%;
+	}
+
+	#u759
+	{
+		margin-top: 60px;
+		width: 4.17%;
+		left: 16.62%;
+	}
+
+	#u733,#u744,#u755
+	{
+		width: 100%;
+	}
+
+	#u782-7
+	{
+		margin-right: -10000px;
+		margin-top: 80px;
+		width: 40%;
+		left: 28.86%;
+	}
+
+	#u766-11
+	{
+		margin-right: -10000px;
+		margin-top: 72px;
+		width: 22.56%;
+		left: 74.85%;
+	}
+
+	#u94-bw
+	{
+		z-index: 2;
+		min-height: 140px;
+	}
+}
+
+@media (min-width: 1201px) and (max-width: 1490px)
+{
+	#muse_css_mq
+	{
+		background-color: #0005d2;
+	}
+
+	#bp_1490.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 481.91666666666697px;
+		padding-bottom: 18.08333333333303px;
+		max-width: 1490px;
+	}
+
+	#u2744_align_to_page
+	{
+		max-width: 1490px;
+	}
+
+	#u2759-4
+	{
+		width: 97.92%;
+		margin-left: 1.05%;
+		left: 0px;
+	}
+
+	#u2789-4
+	{
+		width: 71.28%;
+		margin-left: 14.37%;
+	}
+
+	#u2808-12
+	{
+		margin-top: 18px;
+		width: 38.93%;
+		margin-left: 30.54%;
+	}
+
+	#u2747
+	{
+		margin-top: 68px;
+		width: 52.62%;
+		margin-left: 26.11%;
+	}
+
+	#u94
+	{
+		min-height: 122px;
+		padding-bottom: 60px;
+	}
+
+	#u94_align_to_page
+	{
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+	}
+
+	#u737
+	{
+		width: 62px;
+		margin-top: 60px;
+		left: 5.78%;
+	}
+
+	#u748
+	{
+		width: 62px;
+		margin-top: 60px;
+		left: 11.21%;
+	}
+
+	#u759
+	{
+		width: 62px;
+		margin-top: 60px;
+		left: 16.58%;
+	}
+
+	#u782-7
+	{
+		margin-right: -10000px;
+		margin-top: 80px;
+		width: 40%;
+		left: 28.86%;
+	}
+
+	#u766-11
+	{
+		margin-right: -10000px;
+		margin-top: 72px;
+		width: 22.56%;
+		left: 74.84%;
+	}
+
+	#u94-bw
+	{
+		z-index: 2;
+		min-height: 122px;
+	}
+}
+
+@media (min-width: 901px) and (max-width: 1200px)
+{
+	#muse_css_mq
+	{
+		background-color: #0004b0;
+	}
+
+	#bp_1200.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 494px;
+		padding-bottom: 6px;
+		max-width: 1200px;
+	}
+
+	#u2744_align_to_page
+	{
+		max-width: 1200px;
+	}
+
+	#u2759-4
+	{
+		width: 97.92%;
+		margin-left: 1.05%;
+		left: 0px;
+	}
+
+	#u2789-4
+	{
+		width: 71.34%;
+		margin-left: 14.34%;
+	}
+
+	#u2808-12
+	{
+		margin-top: 18px;
+		width: 53.84%;
+		margin-left: 23.09%;
+	}
+
+	#u2747
+	{
+		margin-top: 140px;
+		width: 52.59%;
+		margin-left: 26.09%;
+	}
+
+	#u94
+	{
+		min-height: 221px;
+	}
+
+	#u94_align_to_page
+	{
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+		padding-top: 15px;
+		padding-bottom: 25px;
+	}
+
+	#pu737
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u737
+	{
+		width: 50px;
+		left: 41.09%;
+	}
+
+	#u748
+	{
+		width: 50px;
+		left: 47.92%;
+	}
+
+	#u759
+	{
+		width: 50px;
+		left: 54.75%;
+	}
+
+	#u766-11
+	{
+		margin-top: 29px;
+		width: 62.26%;
+		left: 1.67%;
+	}
+
+	#u782-7
+	{
+		margin-top: 14px;
+		width: 44.09%;
+		left: 27.92%;
+	}
+
+	#u94-bw
+	{
+		z-index: 2;
+		min-height: 221px;
+	}
+}
+
+@media (min-width: 481px) and (max-width: 900px)
+{
+	#muse_css_mq
+	{
+		background-color: #000384;
+	}
+
+	#bp_900.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 494px;
+		padding-bottom: 6px;
+		max-width: 900px;
+	}
+
+	#u2744_align_to_page
+	{
+		max-width: 900px;
+	}
+
+	#u2759-4
+	{
+		width: 97.89%;
+		margin-left: 1.06%;
+		left: -1px;
+	}
+
+	#u2789-4
+	{
+		width: 89.34%;
+		margin-left: 5.34%;
+	}
+
+	#u2808-12
+	{
+		margin-top: 18px;
+		width: 64.56%;
+		margin-left: 17.78%;
+	}
+
+	#u2747
+	{
+		margin-top: 68px;
+		width: 52.56%;
+		margin-left: 26.12%;
+	}
+
+	#u94
+	{
+		min-height: 232px;
+	}
+
+	#u94_align_to_page
+	{
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+		padding-top: 19px;
+		padding-bottom: 22px;
+	}
+
+	#pu737
+	{
+		position: relative;
+		width: 100%;
+	}
+
+	#u737
+	{
+		width: 51px;
+		left: 39.89%;
+	}
+
+	#u748
+	{
+		width: 51px;
+		left: 47.23%;
+	}
+
+	#u759
+	{
+		width: 51px;
+		left: 54.45%;
+	}
+
+	#u766-11
+	{
+		margin-top: 19px;
+		width: 65%;
+		left: 2.23%;
+	}
+
+	#u782-7
+	{
+		margin-top: 33px;
+		width: 67.45%;
+		left: 15.12%;
+	}
+
+	#u94-bw
+	{
+		z-index: 2;
+		min-height: 232px;
+	}
+}
+
+@media (max-width: 480px)
+{
+	#muse_css_mq
+	{
+		background-color: #0001e0;
+	}
+
+	#bp_480.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 500px;
+		max-width: 480px;
+	}
+
+	#page_position_content
+	{
+		margin-bottom: -25px;
+		width: 100%;
+	}
+
+	#u2744_align_to_page
+	{
+		max-width: 480px;
+	}
+
+	#u2759-4
+	{
+		width: 97.92%;
+		margin-left: 1.05%;
+		left: 0px;
+	}
+
+	#u2789-4
+	{
+		width: 91.67%;
+		margin-left: 4.17%;
+	}
+
+	#u2808-12
+	{
+		margin-top: 90px;
+		width: 91.67%;
+		margin-left: 4.17%;
+	}
+
+	#u2747
+	{
+		margin-top: 212px;
+		width: 52.71%;
+		margin-left: 26.05%;
+	}
+
+	#u94
+	{
+		width: 480px;
+		padding-top: 37px;
+		padding-bottom: 45px;
+		position: relative;
+	}
+
+	#pu737
+	{
+		width: 39.59%;
+		margin-left: 30.21%;
+	}
+
+	#u737
+	{
+		width: 46px;
+	}
+
+	#u748
+	{
+		width: 46px;
+		left: 37.9%;
+	}
+
+	#u759
+	{
+		width: 46px;
+		left: 75.79%;
+	}
+
+	#u766-11
+	{
+		margin-top: 32px;
+		width: 80%;
+		margin-left: 4.17%;
+	}
+
+	#u782-7
+	{
+		margin-top: 32px;
+		width: 67.71%;
+		margin-left: 16.05%;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+}
+

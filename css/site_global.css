@@ -98,7 +98,7 @@ body
 
 a:link
 {
-	color: #0000FF;
+	color: #0071BC;
 	text-decoration: underline;
 }
 
@@ -126,6 +126,30 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 	font-style: normal;
 	font-weight: normal;
+}
+
+.Normal a:link
+{
+	color: #FFFFFF;
+	text-decoration: inherit;
+}
+
+.Normal a:visited
+{
+	color: #FFFFFF;
+	text-decoration: inherit;
+}
+
+.Normal a:hover
+{
+	color: #FFFFFF;
+	text-decoration: inherit;
+}
+
+.Normal a:active
+{
+	color: #FFFFFF;
+	text-decoration: inherit;
 }
 
 .normal_text
