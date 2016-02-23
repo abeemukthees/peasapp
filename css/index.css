@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000008;
-	background-color: #2140C2;
+	color: #0000EB;
+	background-color: #F900B0;
 }
 
 .js body
@@ -153,10 +153,10 @@
 
 #u544-23
 {
+	color: #FFFFFF;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-	color: #FFFFFF;
 }
 
 #u544-2
@@ -184,7 +184,6 @@
 #u776-4
 {
 	font-family: lato, sans-serif;
-	min-height: 81px;
 	background-color: transparent;
 	font-weight: 400;
 	position: relative;
@@ -683,6 +682,7 @@ body
 	#u776-4
 	{
 		z-index: 121;
+		min-height: 81px;
 		line-height: 43px;
 		font-size: 36px;
 		width: 37.82%;
@@ -1209,6 +1209,7 @@ body
 	#u776-4
 	{
 		z-index: 121;
+		min-height: 81px;
 		line-height: 43px;
 		font-size: 36px;
 		width: 37.79%;
@@ -1746,6 +1747,7 @@ body
 	#u776-4
 	{
 		z-index: 121;
+		min-height: 81px;
 		line-height: 43px;
 		font-size: 36px;
 		width: 47.75%;
@@ -2284,6 +2286,7 @@ body
 	#u776-4
 	{
 		z-index: 121;
+		min-height: 81px;
 		line-height: 43px;
 		font-size: 36px;
 		width: 54.89%;
@@ -2825,6 +2828,7 @@ body
 	#u776-4
 	{
 		z-index: 121;
+		min-height: 81px;
 		line-height: 43px;
 		font-size: 36px;
 		width: 54.88%;
@@ -3423,9 +3427,10 @@ body
 	#u544-23
 	{
 		z-index: 67;
-		min-height: 371px;
+		min-height: 380px;
 		line-height: 25px;
 		font-size: 18px;
+		margin-bottom: -9px;
 		margin-top: 27px;
 		width: 91.67%;
 		left: 4.17%;
@@ -3435,7 +3440,13 @@ body
 	{
 		z-index: 66;
 		min-height: 398px;
-		margin-top: 326px;
+		margin-top: 275px;
+	}
+
+	#u672
+	{
+		z-index: 90;
+		min-height: 193px;
 	}
 
 	#u672_align_to_page
@@ -3444,31 +3455,34 @@ body
 		margin-right: auto;
 		position: relative;
 		max-width: 480px;
-		padding-top: 26px;
-		padding-bottom: 55px;
+		padding-top: 34px;
+		padding-bottom: 31px;
+		margin-bottom: -1px;
 	}
 
 	#u776-4
 	{
 		z-index: 91;
+		min-height: 54px;
 		line-height: 36px;
 		font-size: 30px;
 		width: 91.67%;
-		left: 3.96%;
+		left: 4.17%;
 	}
 
 	#u802
 	{
 		z-index: 95;
-		margin-top: 32px;
+		margin-top: 25px;
 		width: 34.38%;
 		left: 32.71%;
 	}
 
-	#u672,#u672-bw
+	#u672-bw
 	{
 		z-index: 90;
-		min-height: 243px;
+		min-height: 193px;
+		margin-top: -1px;
 	}
 
 	#u94
