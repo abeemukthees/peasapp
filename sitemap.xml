@@ -307,18 +307,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abeemukthees.github.io/peasapp/images/peas_wo_muse_1278x495.png</loc>
-    <lastmod>2016-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abeemukthees.github.io/peasapp/images/peas_wo_muse_2278x496.png</loc>
-    <lastmod>2016-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://abeemukthees.github.io/peasapp/images/peas_wo_5240x429.png</loc>
     <lastmod>2016-02-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -386,6 +374,18 @@
   </url>
   <url>
     <loc>http://abeemukthees.github.io/peasapp/images/past_year_72.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/peas_wo_muse_1283x504.png</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/peas_wo_muse_2283x505.png</loc>
     <lastmod>2016-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
