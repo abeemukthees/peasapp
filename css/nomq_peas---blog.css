@@ -8,13 +8,7 @@
 		display: block;
 	}
 
-	#page
-	{
-		min-height: 500px;
-		max-width: 1920px;
-	}
-
-	#u2989_align_to_page
+	#page,#u2989_align_to_page
 	{
 		max-width: 1920px;
 	}

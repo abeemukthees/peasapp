@@ -1,7 +1,7 @@
 .version.peas___blog /* version checker */
 {
-	color: #0000EA;
-	background-color: #6B4677;
+	color: #000001;
+	background-color: #9EE658;
 }
 
 .js body
@@ -16,6 +16,7 @@
 
 #page
 {
+	min-height: 500px;
 	z-index: 1;
 	background-image: none;
 	background-color: transparent;
@@ -196,13 +197,7 @@ body
 		display: block;
 	}
 
-	#page
-	{
-		min-height: 500px;
-		max-width: 1920px;
-	}
-
-	#u2989_align_to_page
+	#page,#u2989_align_to_page
 	{
 		max-width: 1920px;
 	}
@@ -294,13 +289,7 @@ body
 		display: block;
 	}
 
-	#page
-	{
-		min-height: 500px;
-		max-width: 1490px;
-	}
-
-	#u2989_align_to_page
+	#page,#u2989_align_to_page
 	{
 		max-width: 1490px;
 	}
@@ -399,13 +388,7 @@ body
 		display: block;
 	}
 
-	#page
-	{
-		min-height: 500px;
-		max-width: 1200px;
-	}
-
-	#u2989_align_to_page
+	#page,#u2989_align_to_page
 	{
 		max-width: 1200px;
 	}
@@ -517,13 +500,7 @@ body
 		display: block;
 	}
 
-	#page
-	{
-		min-height: 500px;
-		max-width: 900px;
-	}
-
-	#u2989_align_to_page
+	#page,#u2989_align_to_page
 	{
 		max-width: 900px;
 	}
@@ -634,14 +611,7 @@ body
 		display: block;
 	}
 
-	#page
-	{
-		min-height: 480px;
-		padding-bottom: 20px;
-		max-width: 480px;
-	}
-
-	#u2989_align_to_page
+	#page,#u2989_align_to_page
 	{
 		max-width: 480px;
 	}
@@ -673,7 +643,7 @@ body
 
 	#u94
 	{
-		min-height: 230px;
+		min-height: 244px;
 	}
 
 	#u94_align_to_page
@@ -681,8 +651,8 @@ body
 		margin-left: auto;
 		margin-right: auto;
 		position: relative;
-		padding-top: 37px;
-		padding-bottom: 8px;
+		padding-top: 31px;
+		padding-bottom: 28px;
 	}
 
 	#pu737
@@ -736,8 +706,7 @@ body
 	#u94-bw
 	{
 		z-index: 2;
-		min-height: 230px;
-		margin-top: 13px;
+		min-height: 244px;
 	}
 
 	body
