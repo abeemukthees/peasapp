@@ -40,14 +40,6 @@
 	text-decoration: none;
 }
 
-@media (min-width: 1491px)
-{
-	#u94_align_to_page
-	{
-		max-width: 1920px;
-	}
-
-}
 
 @media (min-width: 1201px) and (max-width: 1490px)
 {
@@ -58,6 +50,14 @@
 
 }
 
+@media (min-width: 901px) and (max-width: 1200px)
+{
+	#u94_align_to_page
+	{
+		max-width: 1200px;
+	}
+
+}
 
 @media (min-width: 481px) and (max-width: 900px)
 {
@@ -68,4 +68,12 @@
 
 }
 
+@media (max-width: 480px)
+{
+	#u94_align_to_page
+	{
+		max-width: 480px;
+	}
+
+}
 
