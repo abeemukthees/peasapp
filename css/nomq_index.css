@@ -100,7 +100,7 @@
 		width: 24.12%;
 	}
 
-	#pu3616-4
+	#pu3616-5
 	{
 		margin-right: -10000px;
 		margin-top: 217px;
@@ -108,7 +108,7 @@
 		margin-left: 32.14%;
 	}
 
-	#u3616-4
+	#u3616-5
 	{
 		z-index: 129;
 		min-height: 172px;
@@ -374,6 +374,7 @@
 	#u669-4
 	{
 		z-index: 92;
+		min-height: 85px;
 		line-height: 43px;
 		font-size: 36px;
 		margin-right: -10000px;
