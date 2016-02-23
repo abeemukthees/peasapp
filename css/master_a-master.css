@@ -19,9 +19,6 @@
 	color: #FFFFFF;
 	background-color: transparent;
 	font-weight: 400;
-	font-size: 26px;
-	line-height: 31px;
-	text-align: right;
 }
 
 #u782-7
@@ -30,22 +27,53 @@
 	color: #FFFFFF;
 	background-color: transparent;
 	font-weight: 400;
-	font-size: 20px;
-	line-height: 24px;
 	text-align: center;
 }
 
-#u766-7,#u782-2
+@media (min-width: 1491px)
 {
-	text-decoration: none;
-}
+	#u782-7
+	{
+		font-size: 20px;
+		line-height: 24px;
+	}
 
+	#u766-11
+	{
+		font-size: 26px;
+		line-height: 31px;
+		text-align: right;
+	}
+
+	#u782-2,#u766-7
+	{
+		text-decoration: none;
+	}
+}
 
 @media (min-width: 1201px) and (max-width: 1490px)
 {
 	#u94_align_to_page
 	{
 		max-width: 1490px;
+	}
+
+	#u782-7
+	{
+		font-size: 20px;
+		line-height: 24px;
+	}
+
+	#u766-11
+	{
+		font-size: 26px;
+		line-height: 31px;
+		text-align: right;
+	}
+
+	#u782-2,#u766-7
+	{
+		text-decoration: none;
 	}
 
 }
@@ -57,6 +85,94 @@
 		max-width: 1200px;
 	}
 
+	#u766-11
+	{
+		font-size: 26px;
+		line-height: 31px;
+		text-align: center;
+	}
+
+	#u782-7
+	{
+		font-size: 20px;
+		line-height: 24px;
+	}
+
+	#u782-2
+	{
+		text-decoration: none;
+	}
+
+}
+
+@media (min-width: 801px) and (max-width: 900px)
+{
+	#u94_align_to_page
+	{
+		max-width: 900px;
+	}
+
+	#u766-11
+	{
+		font-size: 24px;
+		line-height: 29px;
+		text-align: center;
+	}
+
+	#u782-7
+	{
+		font-size: 20px;
+		line-height: 24px;
+	}
+
+	#u782-2
+	{
+		text-decoration: none;
+	}
+
+}
+
+@media (min-width: 481px) and (max-width: 800px)
+{
+	#u94_align_to_page
+	{
+		max-width: 800px;
+	}
+
+	#u766-11
+	{
+		font-size: 24px;
+		line-height: 29px;
+		text-align: center;
+	}
+
+	#u782-7
+	{
+		font-size: 20px;
+		line-height: 24px;
+	}
+
+	#u782-2
+	{
+		text-decoration: none;
+	}
+
+}
+
+@media (max-width: 480px)
+{
+	#u766-11
+	{
+		font-size: 18px;
+		line-height: 22px;
+		text-align: center;
+	}
+
+	#u782-7
+	{
+		font-size: 14px;
+	}
+
 }
 
 @media (min-width: 481px) and (max-width: 900px)
@@ -66,6 +182,23 @@
 		max-width: 900px;
 	}
 
-}
+	#u766-11
+	{
+		font-size: 24px;
+		line-height: 29px;
+		text-align: center;
+	}
 
+	#u782-7
+	{
+		font-size: 20px;
+		line-height: 24px;
+	}
+
+	#u782-2
+	{
+		text-decoration: none;
+	}
+
+}
 
