@@ -352,6 +352,7 @@
 	#pu632
 	{
 		margin-top: 45px;
+		width: 100%;
 	}
 
 	#u632
@@ -375,6 +376,7 @@
 		z-index: 92;
 		line-height: 43px;
 		font-size: 36px;
+		margin-right: -10000px;
 		width: 71.31%;
 		left: 14.48%;
 	}

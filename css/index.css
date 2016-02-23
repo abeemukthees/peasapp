@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EB;
-	background-color: #F900B0;
+	color: #000008;
+	background-color: #CB2DA2;
 }
 
 .js body
@@ -128,18 +128,10 @@
 	text-align: center;
 }
 
-#u340,#u632,#u642
-{
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
 #u669-4
 {
 	font-family: lato, sans-serif;
 	min-height: 85px;
-	margin-right: -10000px;
 	font-weight: 400;
 	position: relative;
 	background-color: transparent;
@@ -176,6 +168,13 @@
 	font-weight: 400;
 }
 
+#u340,#u632,#u642
+{
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
 #u672
 {
 	background: #FFFFFF url("../images/symphony2.jpg") repeat left top;
@@ -196,7 +195,7 @@
 	position: relative;
 }
 
-#pu632,#u632_img,#u642_img,#u802_img
+#u632_img,#u642_img,#u802_img
 {
 	width: 100%;
 }
@@ -622,6 +621,7 @@ body
 	#pu632
 	{
 		margin-top: 45px;
+		width: 100%;
 	}
 
 	#u632
@@ -645,6 +645,7 @@ body
 		z-index: 92;
 		line-height: 43px;
 		font-size: 36px;
+		margin-right: -10000px;
 		width: 71.31%;
 		left: 14.48%;
 	}
@@ -1136,6 +1137,7 @@ body
 	#pu632
 	{
 		margin-top: 45px;
+		width: 100%;
 	}
 
 	#u632
@@ -1159,6 +1161,7 @@ body
 		z-index: 92;
 		line-height: 43px;
 		font-size: 36px;
+		margin-right: -10000px;
 		width: 97.32%;
 		left: 1.35%;
 	}
@@ -1667,6 +1670,7 @@ body
 	#pu632
 	{
 		margin-top: 45px;
+		width: 100%;
 	}
 
 	#u632
@@ -1690,6 +1694,7 @@ body
 		z-index: 92;
 		line-height: 43px;
 		font-size: 36px;
+		margin-right: -10000px;
 		width: 96.67%;
 		left: 1.67%;
 	}
@@ -2213,6 +2218,7 @@ body
 	#pu632
 	{
 		margin-top: 45px;
+		width: 100%;
 	}
 
 	#u632
@@ -2236,6 +2242,7 @@ body
 		z-index: 92;
 		line-height: 43px;
 		font-size: 36px;
+		margin-right: -10000px;
 		width: 95.56%;
 		left: 2.23%;
 	}
@@ -2755,6 +2762,7 @@ body
 	#pu632
 	{
 		margin-top: 164px;
+		width: 100%;
 	}
 
 	#u632
@@ -2778,6 +2786,7 @@ body
 		z-index: 92;
 		line-height: 43px;
 		font-size: 36px;
+		margin-right: -10000px;
 		width: 95.5%;
 		left: 2.25%;
 	}
@@ -3294,7 +3303,8 @@ body
 		margin-right: -10000px;
 		margin-top: 12px;
 		width: 79.38%;
-		left: 10.42%;
+		margin-left: 10.32%;
+		left: 0px;
 	}
 
 	#u271-bw
@@ -3311,6 +3321,8 @@ body
 		position: relative;
 		margin-right: -10000px;
 		margin-top: 118px;
+		margin-left: 50%;
+		left: -240px;
 	}
 
 	#u4008
@@ -3380,25 +3392,17 @@ body
 		box-shadow: 6px 6px 14px rgba(0,0,0,0.15);
 	}
 
-	#pu632
+	#ppu669-4
 	{
 		margin-top: 29px;
+		width: 100%;
 	}
 
-	#u632
+	#pu669-4
 	{
-		z-index: 58;
-		margin-top: 63px;
-		width: 42.3%;
-		left: 9.38%;
-	}
-
-	#u642
-	{
-		z-index: 60;
-		margin-top: 63px;
-		width: 42.09%;
-		left: 51.46%;
+		margin-right: -10000px;
+		width: 100%;
+		margin-left: 0%;
 	}
 
 	#u669-4
@@ -3407,7 +3411,8 @@ body
 		line-height: 29px;
 		font-size: 24px;
 		width: 91.67%;
-		left: 4.17%;
+		margin-left: 4.17%;
+		left: 0px;
 	}
 
 	#u652
@@ -3433,14 +3438,31 @@ body
 		margin-bottom: -9px;
 		margin-top: 27px;
 		width: 91.67%;
-		left: 4.17%;
+		margin-left: 4.17%;
+		left: 0px;
 	}
 
 	#u652-bw
 	{
 		z-index: 66;
 		min-height: 398px;
-		margin-top: 275px;
+		margin-top: 190px;
+	}
+
+	#u632
+	{
+		z-index: 58;
+		margin-top: 63px;
+		width: 42.3%;
+		left: 9.38%;
+	}
+
+	#u642
+	{
+		z-index: 60;
+		margin-top: 63px;
+		width: 42.09%;
+		left: 51.46%;
 	}
 
 	#u672
@@ -3467,7 +3489,8 @@ body
 		line-height: 36px;
 		font-size: 30px;
 		width: 91.67%;
-		left: 4.17%;
+		margin-left: 4.17%;
+		left: 0px;
 	}
 
 	#u802
@@ -3475,7 +3498,8 @@ body
 		z-index: 95;
 		margin-top: 25px;
 		width: 34.38%;
-		left: 32.71%;
+		margin-left: 32.82%;
+		left: -1px;
 	}
 
 	#u672-bw
