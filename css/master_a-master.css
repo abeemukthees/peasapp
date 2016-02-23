@@ -161,6 +161,11 @@
 
 @media (max-width: 480px)
 {
+	#u94_align_to_page
+	{
+		max-width: 480px;
+	}
+
 	#u766-11
 	{
 		font-size: 18px;
