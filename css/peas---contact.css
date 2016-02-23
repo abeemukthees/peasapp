@@ -1,7 +1,7 @@
 .version.peas___contact /* version checker */
 {
-	color: #0000FE;
-	background-color: #F9A415;
+	color: #0000FB;
+	background-color: #D9DB84;
 }
 
 .js body
@@ -16,7 +16,6 @@
 
 #page
 {
-	min-height: 500px;
 	z-index: 1;
 	background-image: none;
 	background-color: transparent;
@@ -85,45 +84,33 @@
 	font-family: lato, sans-serif;
 	min-height: 143px;
 	font-weight: 400;
-	font-size: 60px;
-	line-height: 72px;
 	position: relative;
 	z-index: 26;
 	background-color: transparent;
 	text-align: center;
-	margin-top: 115px;
 }
 
-#u2808-12
+#u2808-15
 {
 	font-family: lato, sans-serif;
 	min-height: 93px;
 	font-weight: 400;
-	font-size: 30px;
-	line-height: 36px;
 	position: relative;
 	z-index: 30;
 	background-color: transparent;
 	text-align: center;
 }
 
-#u2808-3
+#u2808-5
 {
 	font-family: lato, sans-serif;
 	font-weight: 700;
-}
-
-#u2808-4
-{
-	font-family: lato, sans-serif;
-	font-weight: 400;
 }
 
 #u2747
 {
 	z-index: 19;
 	position: relative;
-	height: 156px;
 }
 
 .ie #u2747
@@ -141,14 +128,14 @@
 
 #u737
 {
-	z-index: 42;
+	z-index: 45;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u733
 {
-	z-index: 43;
+	z-index: 46;
 }
 
 #u748
@@ -185,7 +172,7 @@
 #u782-7
 {
 	min-height: 40px;
-	z-index: 44;
+	z-index: 47;
 	position: relative;
 }
 
@@ -211,7 +198,13 @@ body
 		display: block;
 	}
 
-	#page,#u2744_align_to_page
+	#page
+	{
+		min-height: 500px;
+		max-width: 1920px;
+	}
+
+	#u2744_align_to_page
 	{
 		max-width: 1920px;
 	}
@@ -225,20 +218,33 @@ body
 
 	#u2789-4
 	{
+		line-height: 72px;
+		font-size: 60px;
+		margin-top: 115px;
 		width: 71.31%;
 		margin-left: 14.38%;
 	}
 
-	#u2808-12
+	#u2808-15
 	{
+		line-height: 36px;
+		font-size: 30px;
 		margin-top: 18px;
 		width: 38.91%;
 		margin-left: 30.58%;
 	}
 
+	#u2808-7
+	{
+		font-family: lato, sans-serif;
+		font-weight: 400;
+	}
+
 	#u2747
 	{
-		margin-top: 68px;
+		height: 156px;
+		top: -4px;
+		margin-bottom: -4px;
 		width: 52.61%;
 		margin-left: 26.1%;
 	}
@@ -305,7 +311,13 @@ body
 		display: block;
 	}
 
-	#page,#u2744_align_to_page
+	#page
+	{
+		min-height: 500px;
+		max-width: 1490px;
+	}
+
+	#u2744_align_to_page
 	{
 		max-width: 1490px;
 	}
@@ -319,20 +331,33 @@ body
 
 	#u2789-4
 	{
+		line-height: 72px;
+		font-size: 60px;
+		margin-top: 115px;
 		width: 71.28%;
 		margin-left: 14.37%;
 	}
 
-	#u2808-12
+	#u2808-15
 	{
+		line-height: 36px;
+		font-size: 30px;
 		margin-top: 18px;
 		width: 38.93%;
 		margin-left: 30.54%;
 	}
 
+	#u2808-7
+	{
+		font-family: lato, sans-serif;
+		font-weight: 400;
+	}
+
 	#u2747
 	{
-		margin-top: 68px;
+		height: 156px;
+		top: -4px;
+		margin-bottom: -4px;
 		width: 52.62%;
 		margin-left: 26.11%;
 	}
@@ -406,7 +431,13 @@ body
 		display: block;
 	}
 
-	#page,#u2744_align_to_page
+	#page
+	{
+		min-height: 500px;
+		max-width: 1200px;
+	}
+
+	#u2744_align_to_page
 	{
 		max-width: 1200px;
 	}
@@ -420,20 +451,32 @@ body
 
 	#u2789-4
 	{
+		line-height: 72px;
+		font-size: 60px;
+		margin-top: 115px;
 		width: 71.34%;
 		margin-left: 14.34%;
 	}
 
-	#u2808-12
+	#u2808-15
 	{
+		line-height: 36px;
+		font-size: 30px;
 		margin-top: 18px;
 		width: 53.84%;
 		margin-left: 23.09%;
 	}
 
+	#u2808-7
+	{
+		font-family: lato, sans-serif;
+		font-weight: 400;
+	}
+
 	#u2747
 	{
-		margin-top: 140px;
+		height: 156px;
+		margin-top: 68px;
 		width: 52.59%;
 		margin-left: 26.09%;
 	}
@@ -519,7 +562,13 @@ body
 		display: block;
 	}
 
-	#page,#u2744_align_to_page
+	#page
+	{
+		min-height: 500px;
+		max-width: 900px;
+	}
+
+	#u2744_align_to_page
 	{
 		max-width: 900px;
 	}
@@ -533,20 +582,33 @@ body
 
 	#u2789-4
 	{
+		line-height: 72px;
+		font-size: 60px;
+		margin-top: 115px;
 		width: 89.34%;
 		margin-left: 5.34%;
 	}
 
-	#u2808-12
+	#u2808-15
 	{
+		line-height: 36px;
+		font-size: 30px;
 		margin-top: 18px;
 		width: 64.56%;
 		margin-left: 17.78%;
 	}
 
+	#u2808-7
+	{
+		font-family: lato, sans-serif;
+		font-weight: 400;
+	}
+
 	#u2747
 	{
-		margin-top: 68px;
+		height: 156px;
+		top: -4px;
+		margin-bottom: -4px;
 		width: 52.56%;
 		margin-left: 26.12%;
 	}
@@ -632,7 +694,14 @@ body
 		display: block;
 	}
 
-	#page,#u2744_align_to_page
+	#page
+	{
+		min-height: 499.6500000000003px;
+		padding-bottom: 0px;
+		max-width: 480px;
+	}
+
+	#u2744_align_to_page
 	{
 		max-width: 480px;
 	}
@@ -646,22 +715,38 @@ body
 
 	#u2789-4
 	{
+		line-height: 58px;
+		font-size: 48px;
+		margin-top: 115px;
 		width: 91.67%;
 		margin-left: 4.17%;
 	}
 
-	#u2808-12
+	#u2808-15
 	{
-		margin-top: 90px;
+		margin-top: 91px;
 		width: 91.67%;
 		margin-left: 4.17%;
+	}
+
+	#u2808-2,#u2808-4,#u2808-6,#u2808-8
+	{
+		font-size: 26px;
+		line-height: 31px;
+	}
+
+	#u2808-9,#u2808-10,#u2808-13
+	{
+		font-size: 30px;
+		line-height: 36px;
 	}
 
 	#u2747
 	{
-		margin-top: 212px;
+		height: 74px;
+		margin-top: 134px;
 		width: 52.71%;
-		margin-left: 26.05%;
+		margin-left: 28.34%;
 	}
 
 	#u94
@@ -745,7 +830,14 @@ body
 		display: block;
 	}
 
-	#page,#u2744_align_to_page
+	#page
+	{
+		min-height: 499.79999999999995px;
+		padding-bottom: 0px;
+		max-width: 360px;
+	}
+
+	#u2744_align_to_page
 	{
 		max-width: 360px;
 	}
@@ -759,27 +851,43 @@ body
 
 	#u2789-4
 	{
-		width: 91.67%;
-		margin-left: 4.17%;
+		line-height: 43px;
+		font-size: 36px;
+		margin-top: 88px;
+		width: 88.89%;
+		margin-left: 5.56%;
 	}
 
-	#u2808-12
+	#u2808-15
 	{
-		margin-top: 90px;
-		width: 91.67%;
-		margin-left: 4.17%;
+		margin-top: 49px;
+		width: 88.89%;
+		margin-left: 5.56%;
+	}
+
+	#u2808-2,#u2808-4,#u2808-6,#u2808-8
+	{
+		font-size: 26px;
+		line-height: 31px;
+	}
+
+	#u2808-9,#u2808-10,#u2808-13
+	{
+		font-size: 30px;
+		line-height: 36px;
 	}
 
 	#u2747
 	{
-		margin-top: 212px;
+		height: 71px;
+		margin-top: 59px;
 		width: 52.5%;
-		margin-left: 26.12%;
+		margin-left: 23.62%;
 	}
 
 	#u94
 	{
-		min-height: 243.5500000000004px;
+		min-height: 243.55000000000018px;
 		padding-bottom: 0px;
 	}
 
@@ -819,7 +927,7 @@ body
 		left: 73px;
 	}
 
-	#u733,#u744,#u755
+	#page_position_content,#u733,#u744,#u755
 	{
 		width: 100%;
 	}
@@ -843,7 +951,7 @@ body
 	#u94-bw
 	{
 		z-index: 2;
-		min-height: 243.5500000000004px;
+		min-height: 243.55000000000018px;
 	}
 
 	body

@@ -8,7 +8,13 @@
 		display: block;
 	}
 
-	#page,#u2744_align_to_page
+	#page
+	{
+		min-height: 500px;
+		max-width: 1920px;
+	}
+
+	#u2744_align_to_page
 	{
 		max-width: 1920px;
 	}
@@ -22,20 +28,33 @@
 
 	#u2789-4
 	{
+		line-height: 72px;
+		font-size: 60px;
+		margin-top: 115px;
 		width: 71.31%;
 		margin-left: 14.38%;
 	}
 
-	#u2808-12
+	#u2808-15
 	{
+		line-height: 36px;
+		font-size: 30px;
 		margin-top: 18px;
 		width: 38.91%;
 		margin-left: 30.58%;
 	}
 
+	#u2808-7
+	{
+		font-family: lato, sans-serif;
+		font-weight: 400;
+	}
+
 	#u2747
 	{
-		margin-top: 68px;
+		height: 156px;
+		top: -4px;
+		margin-bottom: -4px;
 		width: 52.61%;
 		margin-left: 26.1%;
 	}
