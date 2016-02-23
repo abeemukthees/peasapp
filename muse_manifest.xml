@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://abeemukthees.github.io/peasapp" resolutions="1x" timestamp="1456241849770">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://abeemukthees.github.io/peasapp" resolutions="1x" timestamp="1456242624138">
   <folder name="css">
     <file name="site_global.css" crc="4224675566"/>
     <file name="master_a-master.css" crc="2956567" ref="index:peas---blog:peas---contact"/>
@@ -84,8 +84,9 @@
     <file name="peas_wo_muse_6172x307.png" crc="17008024" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:peas---contact:peas---blog"/>
     <file name="symphony3.jpg" crc="4197697367" ref="peas---contact:peas---blog"/>
+    <file name="favicon.ico" crc="380844437" ref="index"/>
   </folder>
-  <file name="index.html" crc="359422857" seo="true" mt="1456241794944" redirect="true"/>
-  <file name="peas---contact.html" crc="524120223" seo="true" mt="1456241811874" redirect="true"/>
-  <file name="peas---blog.html" crc="180606731" seo="true" mt="1456241849161" redirect="true"/>
+  <file name="index.html" crc="449184360" seo="true" mt="1456242581626" redirect="true"/>
+  <file name="peas---contact.html" crc="364449397" seo="true" mt="1456242581626" redirect="true"/>
+  <file name="peas---blog.html" crc="3993280422" seo="true" mt="1456242623436" redirect="true"/>
 </manifest>
