@@ -357,6 +357,7 @@
 	#u632
 	{
 		z-index: 88;
+		margin-top: 42px;
 		width: 35.58%;
 		left: 14.48%;
 	}
@@ -364,6 +365,7 @@
 	#u642
 	{
 		z-index: 90;
+		margin-top: 42px;
 		width: 35.73%;
 		left: 50.06%;
 	}
@@ -390,6 +392,7 @@
 	#u544-23
 	{
 		z-index: 97;
+		min-height: 351px;
 		line-height: 36px;
 		font-size: 26px;
 		margin-top: 55px;

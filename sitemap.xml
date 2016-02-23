@@ -337,19 +337,55 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abeemukthees.github.io/peasapp/images/past_day_5329x585.jpg</loc>
-    <lastmod>2016-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abeemukthees.github.io/peasapp/images/peas_wo_muse_5201x359.png</loc>
-    <lastmod>2016-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://abeemukthees.github.io/peasapp/images/peas_wo_muse_6202x360.png</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/peas_wo_muse_5204x363.png</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_week_4313x556.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_month_4313x556.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_year_7314x559.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_day_52.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_week_42.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_month_42.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_year_72.jpg</loc>
     <lastmod>2016-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
