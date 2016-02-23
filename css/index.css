@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000014;
-	background-color: #4F3937;
+	color: #000010;
+	background-color: #5BF9E3;
 }
 
 .js body
@@ -3427,8 +3427,8 @@ body
 	#u652
 	{
 		z-index: 66;
-		min-height: 373px;
-		padding-bottom: 51px;
+		min-height: 364px;
+		padding-bottom: 92px;
 	}
 
 	#u560_align_to_page,#u271_align_to_page,#u652_align_to_page
@@ -3442,7 +3442,7 @@ body
 	#u544-23
 	{
 		z-index: 67;
-		min-height: 346px;
+		min-height: 337px;
 		line-height: 25px;
 		font-size: 18px;
 		margin-top: 27px;
@@ -3454,7 +3454,7 @@ body
 	#u652-bw
 	{
 		z-index: 66;
-		min-height: 373px;
+		min-height: 364px;
 		margin-top: 190px;
 	}
 
@@ -3480,8 +3480,8 @@ body
 		margin-right: auto;
 		position: relative;
 		max-width: 480px;
-		padding-top: 20px;
-		padding-bottom: 33px;
+		padding-top: 35px;
+		padding-bottom: 38px;
 	}
 
 	#u776-4
@@ -3507,7 +3507,7 @@ body
 	#u672,#u672-bw
 	{
 		z-index: 90;
-		min-height: 168px;
+		min-height: 188px;
 	}
 
 	#u94
