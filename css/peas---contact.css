@@ -1,7 +1,7 @@
 .version.peas___contact /* version checker */
 {
-	color: #0000FB;
-	background-color: #D9DB84;
+	color: #0000EC;
+	background-color: #F3E4B1;
 }
 
 .js body
@@ -29,7 +29,7 @@
 #u2744
 {
 	min-height: 460px;
-	z-index: 18;
+	z-index: 22;
 	background: transparent url("../images/symphony3.jpg") repeat left top;
 }
 
@@ -45,7 +45,7 @@
 #u2757
 {
 	left: -75px;
-	z-index: 20;
+	z-index: 24;
 	background-color: transparent;
 	position: relative;
 	width: 150px;
@@ -54,7 +54,7 @@
 
 #u2758
 {
-	z-index: 21;
+	z-index: 25;
 	display: block;
 }
 
@@ -67,7 +67,7 @@
 	font-size: 100px;
 	line-height: 120px;
 	position: relative;
-	z-index: 22;
+	z-index: 26;
 	background-color: transparent;
 	text-align: center;
 	margin-top: 23px;
@@ -76,7 +76,7 @@
 #u2744-bw
 {
 	min-height: 460px;
-	z-index: 18;
+	z-index: 22;
 }
 
 #u2789-4
@@ -85,7 +85,7 @@
 	min-height: 143px;
 	font-weight: 400;
 	position: relative;
-	z-index: 26;
+	z-index: 30;
 	background-color: transparent;
 	text-align: center;
 }
@@ -96,7 +96,7 @@
 	min-height: 93px;
 	font-weight: 400;
 	position: relative;
-	z-index: 30;
+	z-index: 34;
 	background-color: transparent;
 	text-align: center;
 }
@@ -109,7 +109,7 @@
 
 #u2747
 {
-	z-index: 19;
+	z-index: 23;
 	position: relative;
 }
 
@@ -128,14 +128,14 @@
 
 #u737
 {
-	z-index: 45;
+	z-index: 49;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u733
 {
-	z-index: 46;
+	z-index: 50;
 }
 
 #u748
@@ -162,7 +162,7 @@
 	z-index: 6;
 }
 
-#u766-11
+#u766-15
 {
 	min-height: 48px;
 	z-index: 7;
@@ -172,7 +172,7 @@
 #u782-7
 {
 	min-height: 40px;
-	z-index: 47;
+	z-index: 51;
 	position: relative;
 }
 
@@ -290,12 +290,12 @@ body
 		left: 28.86%;
 	}
 
-	#u766-11
+	#u766-15
 	{
 		margin-right: -10000px;
-		margin-top: 72px;
+		margin-top: 80px;
 		width: 22.56%;
-		left: 74.85%;
+		left: 75.21%;
 	}
 }
 
@@ -364,8 +364,8 @@ body
 
 	#u94
 	{
-		min-height: 122px;
-		padding-bottom: 78px;
+		min-height: 128px;
+		padding-bottom: 72px;
 	}
 
 	#u94_align_to_page
@@ -404,18 +404,18 @@ body
 		left: 28.86%;
 	}
 
-	#u766-11
+	#u766-15
 	{
 		margin-right: -10000px;
-		margin-top: 72px;
+		margin-top: 80px;
 		width: 22.56%;
-		left: 74.84%;
+		left: 74.9%;
 	}
 
 	#u94-bw
 	{
 		z-index: 2;
-		min-height: 122px;
+		min-height: 128px;
 	}
 }
 
@@ -527,7 +527,7 @@ body
 		width: 100%;
 	}
 
-	#u766-11
+	#u766-15
 	{
 		margin-top: 29px;
 		width: 96.67%;
@@ -659,7 +659,7 @@ body
 		width: 100%;
 	}
 
-	#u766-11
+	#u766-15
 	{
 		margin-top: 28px;
 		width: 95.56%;
@@ -795,7 +795,7 @@ body
 		width: 100%;
 	}
 
-	#u766-11
+	#u766-15
 	{
 		margin-top: 33px;
 		width: 91.67%;
@@ -932,7 +932,7 @@ body
 		width: 100%;
 	}
 
-	#u766-11
+	#u766-15
 	{
 		margin-top: 32px;
 		width: 88.89%;
