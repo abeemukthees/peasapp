@@ -1,7 +1,7 @@
 .version.peas___contact /* version checker */
 {
-	color: #000018;
-	background-color: #E540FF;
+	color: #0000EC;
+	background-color: #F3E4B1;
 }
 
 .js body
@@ -30,7 +30,7 @@
 {
 	min-height: 460px;
 	z-index: 22;
-	background: transparent url("../images/symphony.jpg") repeat left top;
+	background: transparent url("../images/symphony3.jpg") repeat left top;
 }
 
 #u2744_align_to_page
