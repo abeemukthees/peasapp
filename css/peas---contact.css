@@ -1,7 +1,7 @@
 .version.peas___contact /* version checker */
 {
-	color: #0000F8;
-	background-color: #B4B4BB;
+	color: #0000E3;
+	background-color: #7818A8;
 }
 
 .js body
@@ -471,60 +471,47 @@ body
 
 	#u94
 	{
-		min-height: 221px;
-	}
-
-	#u94_align_to_page
-	{
-		margin-left: auto;
-		margin-right: auto;
-		position: relative;
+		width: 1200px;
 		padding-top: 15px;
 		padding-bottom: 25px;
+		position: relative;
 	}
 
 	#pu737
 	{
-		position: relative;
-		width: 100%;
+		width: 17.84%;
+		margin-left: 41.09%;
 	}
 
 	#u737
 	{
 		width: 50px;
-		left: 41.09%;
 	}
 
 	#u748
 	{
 		width: 50px;
-		left: 47.92%;
+		left: 38.32%;
 	}
 
 	#u759
 	{
 		width: 50px;
-		left: 54.75%;
+		left: 76.64%;
 	}
 
 	#u766-11
 	{
 		margin-top: 29px;
 		width: 62.26%;
-		left: 1.67%;
+		margin-left: 1.67%;
 	}
 
 	#u782-7
 	{
 		margin-top: 14px;
 		width: 44.09%;
-		left: 27.92%;
-	}
-
-	#u94-bw
-	{
-		z-index: 2;
-		min-height: 221px;
+		margin-left: 27.92%;
 	}
 }
 
