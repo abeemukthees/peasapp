@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000002;
-	background-color: #F2C123;
+	color: #000007;
+	background-color: #5A9085;
 }
 
 .js body
@@ -3144,7 +3144,7 @@ body
 		margin-top: 16px;
 		position: relative;
 		margin-left: 50%;
-		left: -174px;
+		left: -220px;
 	}
 
 	#u3639
@@ -3154,7 +3154,7 @@ body
 		height: 423px;
 		background-color: transparent;
 		top: 55px;
-		left: 55px;
+		left: 100px;
 	}
 
 	#u3639popup
@@ -3207,7 +3207,7 @@ body
 	#u3649
 	{
 		position: absolute;
-		width: 349px;
+		width: 440px;
 		background-color: transparent;
 	}
 
@@ -3219,7 +3219,7 @@ body
 	#u3650-4
 	{
 		z-index: 116;
-		width: 329px;
+		width: 420px;
 		min-height: 34px;
 		border-width: 0px;
 		border-color: transparent;
@@ -3238,7 +3238,7 @@ body
 	#u3895-4
 	{
 		z-index: 120;
-		width: 329px;
+		width: 420px;
 		min-height: 34px;
 		border-width: 0px;
 		border-color: transparent;
@@ -3257,7 +3257,7 @@ body
 	#u3968-4
 	{
 		z-index: 124;
-		width: 329px;
+		width: 420px;
 		min-height: 34px;
 		border-width: 0px;
 		border-color: transparent;
