@@ -37,30 +37,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abeemukthees.github.io/peasapp/images/past_day_5.jpg</loc>
-    <lastmod>2016-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abeemukthees.github.io/peasapp/images/past_week_4.jpg</loc>
-    <lastmod>2016-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abeemukthees.github.io/peasapp/images/past_month_4.jpg</loc>
-    <lastmod>2016-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abeemukthees.github.io/peasapp/images/past_year_7.jpg</loc>
-    <lastmod>2016-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://abeemukthees.github.io/peasapp/images/s6_3.png</loc>
     <lastmod>2016-02-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -355,30 +331,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://abeemukthees.github.io/peasapp/images/past_day_52.jpg</loc>
-    <lastmod>2016-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abeemukthees.github.io/peasapp/images/past_week_42.jpg</loc>
-    <lastmod>2016-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abeemukthees.github.io/peasapp/images/past_month_42.jpg</loc>
-    <lastmod>2016-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://abeemukthees.github.io/peasapp/images/past_year_72.jpg</loc>
-    <lastmod>2016-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://abeemukthees.github.io/peasapp/images/peas_wo_muse_1283x504.png</loc>
     <lastmod>2016-02-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -386,6 +338,54 @@
   </url>
   <url>
     <loc>http://abeemukthees.github.io/peasapp/images/peas_wo_muse_2283x505.png</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_day_5403x716.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_week_4403x716.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_month_4403x716.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_year_7405x720.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_day_5321x570.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_week_4321x570.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_month_4321x570.jpg</loc>
+    <lastmod>2016-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://abeemukthees.github.io/peasapp/images/past_year_7321x570.jpg</loc>
     <lastmod>2016-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

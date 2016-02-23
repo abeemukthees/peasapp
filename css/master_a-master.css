@@ -175,3 +175,30 @@
 
 }
 
+@media (min-width: 481px) and (max-width: 900px)
+{
+	#u94_align_to_page
+	{
+		max-width: 900px;
+	}
+
+	#u766-11
+	{
+		font-size: 24px;
+		line-height: 29px;
+		text-align: center;
+	}
+
+	#u782-7
+	{
+		font-size: 20px;
+		line-height: 24px;
+	}
+
+	#u782-2
+	{
+		text-decoration: none;
+	}
+
+}
+
