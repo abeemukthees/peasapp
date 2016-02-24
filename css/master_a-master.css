@@ -15,19 +15,19 @@
 
 #u766-15
 {
-	font-family: lato, sans-serif;
 	color: #FFFFFF;
 	background-color: transparent;
 	font-weight: 400;
+	font-family: lato, sans-serif;
 }
 
 #u782-7
 {
-	font-family: lato, sans-serif;
 	color: #FFFFFF;
+	text-align: center;
 	background-color: transparent;
 	font-weight: 400;
-	text-align: center;
+	font-family: lato, sans-serif;
 }
 
 @media (min-width: 1491px)
