@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000E;
-	background-color: #53D3DE;
+	color: #000014;
+	background-color: #9D257C;
 }
 
 .js body
@@ -16,14 +16,14 @@
 
 #page
 {
-	border-width: 0px;
-	margin-left: auto;
-	z-index: 1;
-	border-color: #000000;
-	background-color: transparent;
 	background-image: none;
-	width: 100%;
+	border-width: 0px;
+	background-color: transparent;
+	z-index: 1;
 	margin-right: auto;
+	width: 100%;
+	margin-left: auto;
+	border-color: #000000;
 }
 
 #u97
@@ -34,10 +34,10 @@
 
 #u114
 {
-	margin-left: 50%;
 	position: relative;
-	background-color: transparent;
 	z-index: 23;
+	margin-left: 50%;
+	background-color: transparent;
 }
 
 #u110
@@ -48,60 +48,60 @@
 
 #u121-4
 {
-	color: #FFFFFF;
-	min-height: 134px;
-	position: relative;
-	background-color: transparent;
-	z-index: 25;
-	text-align: center;
-	font-weight: 400;
 	font-family: merienda-one, cursive;
+	position: relative;
+	z-index: 25;
+	color: #FFFFFF;
+	text-align: center;
+	background-color: transparent;
+	min-height: 134px;
+	font-weight: 400;
 }
 
 #u126-4
 {
 	color: #FFFFFF;
 	position: relative;
-	background-color: transparent;
 	z-index: 29;
-	margin-top: 23px;
-	min-height: 50px;
 	text-align: center;
-	font-weight: 400;
+	background-color: transparent;
+	min-height: 50px;
 	font-family: montserrat, sans-serif;
+	font-weight: 400;
+	margin-top: 23px;
 }
 
 #u129
 {
-	margin-left: 50%;
-	position: relative;
 	background-color: transparent;
+	position: relative;
 	z-index: 33;
+	margin-left: 50%;
 }
 
 #u158-6
 {
 	position: relative;
-	color: #000000;
 	z-index: 45;
-	background-color: transparent;
+	color: #000000;
 	text-align: center;
-	font-weight: 400;
+	background-color: transparent;
 	font-family: lato, sans-serif;
+	font-weight: 400;
 }
 
 #u3616-7,#u314-4
 {
-	font-family: lato, sans-serif;
 	position: relative;
 	background-color: transparent;
+	font-family: lato, sans-serif;
 	font-weight: 400;
 }
 
 #u560
 {
-	background-color: #8BC34A;
 	z-index: 44;
+	background-color: #8BC34A;
 }
 
 #u560-bw
@@ -111,26 +111,26 @@
 
 #u271
 {
-	background-color: #CB8367;
 	z-index: 51;
+	background-color: #CB8367;
 }
 
 #u518-4
 {
 	color: #FFFFFF;
-	position: relative;
 	background-color: transparent;
-	min-height: 53px;
 	text-align: center;
-	font-weight: 400;
+	position: relative;
+	min-height: 53px;
 	font-family: lato, sans-serif;
+	font-weight: 400;
 }
 
 #u340,#u632,#u642
 {
+	margin-right: -10000px;
 	position: relative;
 	background-color: transparent;
-	margin-right: -10000px;
 }
 
 #u652
@@ -140,10 +140,10 @@
 
 #u544-23
 {
+	margin-right: -10000px;
+	background-color: transparent;
 	color: #FFFFFF;
 	position: relative;
-	background-color: transparent;
-	margin-right: -10000px;
 }
 
 #u544-2
@@ -170,17 +170,17 @@
 
 #u669-4,#u776-4
 {
-	font-family: lato, sans-serif;
-	position: relative;
 	background-color: transparent;
 	text-align: center;
+	position: relative;
+	font-family: lato, sans-serif;
 	font-weight: 400;
 }
 
 #u802
 {
-	position: relative;
 	background-color: transparent;
+	position: relative;
 }
 
 #u632_img,#u642_img,#u802_img

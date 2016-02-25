@@ -1,7 +1,7 @@
 .version.peas___blog /* version checker */
 {
-	color: #0000E3;
-	background-color: #B8028F;
+	color: #0000EB;
+	background-color: #6884ED;
 }
 
 .js body
@@ -16,40 +16,40 @@
 
 #page
 {
-	border-width: 0px;
+	margin-right: auto;
 	background-image: none;
-	margin-left: auto;
-	border-color: #000000;
+	border-width: 0px;
 	background-color: transparent;
 	z-index: 1;
 	width: 100%;
-	margin-right: auto;
+	margin-left: auto;
+	border-color: #000000;
 }
 
 #u2989
 {
-	z-index: 22;
 	min-height: 460px;
+	z-index: 22;
 	background: transparent url("../images/symphony3.jpg") repeat left top;
 }
 
 #u2989_align_to_page
 {
-	margin-left: auto;
 	margin-right: auto;
 	position: relative;
-	padding-bottom: 76px;
 	padding-top: 77px;
+	margin-left: auto;
+	padding-bottom: 76px;
 }
 
 #u2990
 {
 	left: -75px;
+	position: relative;
+	z-index: 23;
 	width: 150px;
 	margin-left: 50%;
-	position: relative;
 	background-color: transparent;
-	z-index: 23;
 }
 
 #u2991
@@ -62,15 +62,15 @@
 {
 	color: #FFFFFF;
 	position: relative;
-	line-height: 120px;
-	background-color: transparent;
 	z-index: 25;
-	margin-top: 23px;
-	min-height: 134px;
 	font-size: 100px;
 	text-align: center;
-	font-weight: 400;
+	background-color: transparent;
+	min-height: 134px;
+	line-height: 120px;
 	font-family: merienda-one, cursive;
+	font-weight: 400;
+	margin-top: 23px;
 }
 
 #u2989-bw
@@ -81,20 +81,20 @@
 
 #u3046
 {
-	position: relative;
 	background-color: transparent;
+	position: relative;
 }
 
 #u3049-4
 {
-	font-family: lato, sans-serif;
-	position: relative;
-	line-height: 48px;
-	background-color: transparent;
 	margin-right: -10000px;
-	min-height: 72px;
+	background-color: transparent;
 	font-size: 40px;
 	text-align: center;
+	position: relative;
+	min-height: 72px;
+	line-height: 48px;
+	font-family: lato, sans-serif;
 	font-weight: 400;
 }
 

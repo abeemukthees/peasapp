@@ -1,7 +1,7 @@
 .version.peas___contact /* version checker */
 {
-	color: #000016;
-	background-color: #77EE0C;
+	color: #00000F;
+	background-color: #52B9F5;
 }
 
 .js body
@@ -16,40 +16,40 @@
 
 #page
 {
-	border-width: 0px;
+	margin-right: auto;
 	background-image: none;
-	margin-left: auto;
-	border-color: #000000;
+	border-width: 0px;
 	background-color: transparent;
 	z-index: 1;
 	width: 100%;
-	margin-right: auto;
+	margin-left: auto;
+	border-color: #000000;
 }
 
 #u2744
 {
-	z-index: 22;
 	min-height: 460px;
+	z-index: 22;
 	background: transparent url("../images/symphony3.jpg") repeat left top;
 }
 
 #u2744_align_to_page
 {
-	margin-left: auto;
 	margin-right: auto;
 	position: relative;
-	padding-bottom: 76px;
 	padding-top: 77px;
+	margin-left: auto;
+	padding-bottom: 76px;
 }
 
 #u2757
 {
 	left: -75px;
+	position: relative;
+	z-index: 24;
 	width: 150px;
 	margin-left: 50%;
-	position: relative;
 	background-color: transparent;
-	z-index: 24;
 }
 
 #u2758
@@ -62,15 +62,15 @@
 {
 	color: #FFFFFF;
 	position: relative;
-	line-height: 120px;
-	background-color: transparent;
 	z-index: 26;
-	margin-top: 23px;
-	min-height: 134px;
 	font-size: 100px;
 	text-align: center;
-	font-weight: 400;
+	background-color: transparent;
+	min-height: 134px;
+	line-height: 120px;
 	font-family: merienda-one, cursive;
+	font-weight: 400;
+	margin-top: 23px;
 }
 
 #u2744-bw
@@ -81,23 +81,23 @@
 
 #u2789-4
 {
-	font-family: lato, sans-serif;
 	position: relative;
-	background-color: transparent;
 	z-index: 30;
-	min-height: 143px;
 	text-align: center;
+	background-color: transparent;
+	min-height: 143px;
+	font-family: lato, sans-serif;
 	font-weight: 400;
 }
 
 #u2808-15
 {
-	font-family: lato, sans-serif;
 	position: relative;
-	background-color: transparent;
 	z-index: 34;
-	min-height: 93px;
 	text-align: center;
+	background-color: transparent;
+	min-height: 93px;
+	font-family: lato, sans-serif;
 	font-weight: 400;
 }
 
@@ -116,8 +116,8 @@
 .ie #u2747
 {
 	background-color: #FFFFFF;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 	filter: alpha(opacity=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 	opacity: 0.01;
 }
 
